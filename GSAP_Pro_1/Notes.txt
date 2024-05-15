@@ -8,7 +8,7 @@ see the cdn link explanation at 10:00
 gsap.to: when we have to take the element from initial position final then we use the gsap.to 
 
 
-gsap.from is used when we want to take the element from final to initial
+gsap.from: is used when we want to take the element from final to initial
 
 
 note-1: like backgroud-color css me aise like te hai but agar yahi cheej hame gsap me karni ho to hum backgroudColor likhenge because at the very end hum gsap me hum js hi like rahe hai to hum hyphen ke baad wale character ko capital me likhte hai

@@ -1,0 +1,7 @@
+if we use the repeat propery then and provide any x value to it then that repeat will work x+1 times because once it will work for the written code and then it will work x repeat times.
+
+and if we provide the value of repeat as -1 then it will keep on happening in a loop
+
+
+yoyo: is property which takes true or false value only ture is for normal working 
+it is used to make the transition similar similar from end side as it was on the starting side.

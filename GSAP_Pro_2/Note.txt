@@ -1,0 +1,5 @@
+you have to paste the gsap cdn link into the html file and that is also the script link but above the js file link
+
+
+stagger is a really good propery to use if we want to apply any transition property on the similar tag and want ki dono same tags ke transition me thora sa delay ya time alag alag ho
+must see it again

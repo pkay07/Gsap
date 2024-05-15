@@ -1,5 +1,5 @@
 you have to paste the gsap cdn link into the html file and that is also the script link but above the js file link
 
 
-stagger is a really good propery to use if we want to apply any transition property on the similar tag and want ki dono same tags ke transition me thora sa delay ya time alag alag ho
-must see it again
+stagger is a really good property to use if we want to apply any transition property on a similar tag and want ki dono same tags ke transition me thora sa delay ya time alag alag ho
+must see it again and if I use the -ve sign in front of the value then it will rever the order of the transition it will happen from last to first

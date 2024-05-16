@@ -1,0 +1,8 @@
+Agar hamare pass 3 ya 4 elements hai jisme hame animation dikhana hai ya kuch movement dikhana hai but one after the other not all at a time
+
+agar hamare pass kam elements hai to hum khud se kar sakte hai 
+
+lekin agar jada elements hai tab hame animation karne me dikkat hogi kyuki sabka animation maintain karna muskil ho jayega
+
+isliye hum timeline ka use karte hai isme animation just one after the othe hota hai hame kuch bhi calculate karne ki jaroorat nahi parti hai.
+

@@ -1,0 +1,7 @@
+  transform: translate(-50%, 50%);  isko hum use karte hai elment ko center karne me with respect to it's parent it often used with position: absolute
+
+
+
+  white space: nowrap:- isko hum use karte hai taaki hum log string ko ek line me le aaye 
+
+timeline: property me hum khali starting waale element ko hi time dete baaki bache huye ko nahi dete hai
